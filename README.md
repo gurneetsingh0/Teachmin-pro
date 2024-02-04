@@ -18,11 +18,10 @@ Teachmin pro is a Teachmint <b>video downloader</b> and <b>Dark mode</b> provide
 #### Google Chrome
 1. Open Google Chrome.
 
-2. In the top-right corner, click the three vertical dots to open the menu.
+2. Open The Extensions Dropdown and click on Manage Extensions.
 
-3. Navigate to `More tools` -> `Extensions`.
+   ![Screenshot 2024-02-04 234355](https://github.com/DevGurneet/Teachmin-pro/assets/145831139/f59d1e3c-55ed-4a2b-ab8e-cf774da50fa5)
 
-   ![Open Extensions](images/open-extensions.png)
 
 4. Enable the `Developer mode` toggle in the top-right corner of the Extensions page.
 
@@ -30,43 +29,11 @@ Teachmin pro is a Teachmint <b>video downloader</b> and <b>Dark mode</b> provide
 
 5. Click on the `Load unpacked` button.
 
-   ![Load Unpacked](images/load-unpacked.png)
+![214959582-6da3ba75-ec7a-46b1-ad9c-07c414e976158](https://github.com/DevGurneet/Teachmin-pro/assets/145831139/646f6857-5aa5-406d-9659-a0b7d1a7a121)
 
-6. Browse to the directory where you extracted the ZIP file and select the extension folder.
+7. Browse to the directory where you extracted the ZIP file and select the extension folder.
 
-   ![Select Folder](images/select-folder.png)
-
-7. Click `Select Folder` to load the extension.
-
-#### Mozilla Firefox
-1. Open Mozilla Firefox.
-
-2. Type `about:debugging` in the address bar and press `Enter`.
-
-   ![Open Debugging](images/open-debugging.png)
-
-3. In the left sidebar, click on `This Firefox`.
-
-   ![This Firefox](images/this-firefox.png)
-
-4. Click the `Load Temporary Add-on` button.
-
-   ![Load Temporary Add-on](images/load-temporary-addon.png)
-
-5. Browse to the directory where you extracted the ZIP file and select the `manifest.json` file in the extension folder.
-
-   ![Select Manifest](images/select-manifest.png)
-
-6. Click `Open` to load the extension.
-
-### Verify and Test the Extension
-1. After loading the extension, you should see it listed among your installed extensions.
-
-   ![Verify Extension](images/verify-extension.png)
-
-2. Ensure that the extension is enabled.
-
-3. Navigate to a website or page where your extension should work and verify if the functionality is as expected.
+8. Click `Select Folder` to load the extension.
 
 ### Congratulations!
 You have successfully set up and loaded the extension using the "Load Unpacked" feature. If you encounter any issues, refer to the extension documentation or open an issue on the GitHub repository for assistance.
