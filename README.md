@@ -7,9 +7,7 @@ Teachmin pro is a Teachmint <b>video downloader</b> and <b>Dark mode</b> provide
 1. Make sure you have the latest version of [Google Chrome](https://www.google.com/chrome/) installed on your computer.
 
 ### Download the Repository
-1. Download the ZIP file of the repository by clicking [here](https://github.com/your-username/your-extension/archive/main.zip).
-
-   ![Download ZIP](images/download-zip.png)
+1. Download the ZIP file of the repository by clicking <a href="https://github.com/DevGurneet/Teachmin-pro/archive/refs/heads/main.zip">here</a>.
 
 2. Extract the downloaded ZIP file to a location of your choice.
 
