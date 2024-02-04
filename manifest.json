@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "description" : "A Teachmin't video downloader and Dark mode provider",
+  "name": "Teachmin't pro",
+  "version": "1.0",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "tabs",
+    "https://*/*"
+   
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://teachmint.com/*",
+        "https://*.teachmint.com/*"
+      ],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "logo.png",
+      "48": "logo.png",
+      "128": "logo.png"
+    }
+  }
+ 
+}
