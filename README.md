@@ -1,4 +1,5 @@
-<h1>Teachmin Pro</h1> <h3>- A Teachmint Video Downloader and Dark mode Provider</h3> ![logo](https://github.com/DevGurneet/Teachmin-pro/assets/145831139/db95c511-a599-47c4-ae92-5a05174946c7)
+<h1>Teachmin Pro</h1> <h3>- A Teachmint Video Downloader and Dark mode Provider</h3> ![logo](https://github.com/DevGurneet/Teachmin-pro/assets/145831139/6cfed8cd-2062-4805-aa37-e4aae5510788)
+
 Teachmin pro is a Teachmint <b>video downloader</b> and <b>Dark mode</b> provider you can seamlessly download teachmint videos and use dark mode without straining your eyes it helps you study for longer.
 
 Our goal is to make education accessible for everyone and everyone should be able to access videos without paying any fee.
