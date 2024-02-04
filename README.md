@@ -4,7 +4,7 @@ Teachmin pro is a Teachmint <b>video downloader</b> and <b>Dark mode</b> provide
 ## Setting Up the Extension
 
 ### Prerequisites
-1. Make sure you have the latest version of [Google Chrome](https://www.google.com/chrome/) or [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) installed on your computer.
+1. Make sure you have the latest version of [Google Chrome](https://www.google.com/chrome/) installed on your computer.
 
 ### Download the Repository
 1. Download the ZIP file of the repository by clicking [here](https://github.com/your-username/your-extension/archive/main.zip).
