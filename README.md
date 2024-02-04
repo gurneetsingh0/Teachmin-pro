@@ -11,8 +11,6 @@ Teachmin pro is a Teachmint <b>video downloader</b> and <b>Dark mode</b> provide
 
 2. Extract the downloaded ZIP file to a location of your choice.
 
-   ![Extract ZIP](images/extract-zip.png)
-
 ### Load the Extension Unpacked
 
 #### Google Chrome
@@ -25,7 +23,7 @@ Teachmin pro is a Teachmint <b>video downloader</b> and <b>Dark mode</b> provide
 
 4. Enable the `Developer mode` toggle in the top-right corner of the Extensions page.
 
-   ![Enable Developer Mode](images/enable-developer-mode.png)
+   <img src="https://cdn.glitch.global/1d691b76-1866-4866-857e-5927236b6a86/214959582-6da3ba75-ec7a-46b1-ad9c-07c14e976158.png?v=1707071118448">
 
 5. Click on the `Load unpacked` button.
 
