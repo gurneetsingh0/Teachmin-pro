@@ -6,10 +6,10 @@ function injectStylesheet() {
 
     if (darkModeEnabled) {
         if (currentUrl.includes("accounts.teachmint.com")) {
-          
+            // For accounts.teachmint.com
             injectStylesheetLink("https://cdn.glitch.global/1d691b76-1866-4866-857e-5927236b6a86/accounts.css?v=1707053923690");
         } else if (currentUrl.includes("teachmint.com")) {
-           
+            // For teachmint.com and its subdomains except accounts.teachmint.com
             injectStylesheetLink("https://cdn.glitch.global/1d691b76-1866-4866-857e-5927236b6a86/main.css?v=1707055973604");
         }
     }
