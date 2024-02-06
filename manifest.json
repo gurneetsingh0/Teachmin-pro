@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "description" : "A Teachmin't video downloader and Dark mode provider",
   "name": "Teachmin't pro",
-  "version": "1.0",
+  "version": "2.0",
   "background": {
     "service_worker": "background.js"
   },
