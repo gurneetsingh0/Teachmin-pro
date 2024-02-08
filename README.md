@@ -1,4 +1,4 @@
-<h1>Teachmin Pro</h1> <h3>- A Teachmint Video Downloader and Dark mode Provider</h3> <img src="https://github.com/DevGurneet/Teachmin-pro/blob/main/New%20Logo.png?raw=true" alt="logo">
+<h1>Teachmin Pro</h1> <h3>- A Teachmint Video Downloader and Dark mode Provider</h3> <img src="https://github.com/DevGurneet/Teachmin-pro/blob/main/logo.png?raw=true" alt="logo">
 Teachmin pro is a Teachmint <b>video downloader</b> and <b>Dark mode</b> provider you can seamlessly download teachmint videos and use dark mode without straining your eyes it helps you study for longer.
 
 ## Setting Up the Extension
