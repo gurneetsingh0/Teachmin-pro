@@ -43,5 +43,4 @@ Also Using the Light mode for longer period of times used to starin my eyes![The
 
 
 
-<h2><a href="https://discord.gg/38Z2yvjr">Join</a> our Discord Server for any Help or issues regarding this extension</h2>
 
